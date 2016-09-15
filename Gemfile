@@ -23,5 +23,5 @@ gem 'minima'
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 
-#gem 'html-proofer'
+# gem 'html-proofer'
 gem 'rubocop'
