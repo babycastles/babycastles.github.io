@@ -1,6 +1,6 @@
 # it new w0bsite, ayy lmao
 
-## setup instructions:
+## setup instructions (os x):
 
 ### install homebrew:
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
