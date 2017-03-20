@@ -19,7 +19,7 @@ github_username:  babycastles
 
 # build settings
 port:        5000
-theme:       minima
+theme:       jekyll-theme-cayman
 highlighter: rouge
 markdown:    kramdown
 permalink:   pretty
